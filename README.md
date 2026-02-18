@@ -15,7 +15,6 @@ The goal was to clean, transform, and merge multiple raw datasets to visualize h
 ## 🛠️ Tech Stack
 * **Python (Pandas):** For data cleaning, filtering (Brazil, 15+, Total Gender), and merging multiple CSV files.
 * **Matplotlib:** For generating time-series visualizations.
-* **Power BI:** (Planned) For interactive dashboarding using the cleaned dataset.
 
 ## 📈 Key Insights
 
