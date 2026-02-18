@@ -27,4 +27,4 @@ The goal was to clean, transform, and merge multiple raw datasets to visualize h
 Data retrieved from **ILOSTAT** (International Labour Organization Department of Statistics).
 
 ---
-*Created by [Your Name/Van Lee]*
+*Created by [Van Lee]*
